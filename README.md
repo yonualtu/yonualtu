@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @yonualtu
-- 👀 I’m interested in Roblox
-- 🌱 I’m currently learning LUA and C++
-- 📫 How to reach me : Discord : @yonualtu
+Hello, I'm enVY ;)
+Contact (Discord): @nv7r
 
-*note for myself:
-https://www.roblox.com/games/128942731764973/game
+Nobody glazes AI like I do lol
